@@ -6,6 +6,15 @@ It is fully modular, supporting **custom hooks, WebGL-based processing, and live
 
 ---
 
+# Download the App
+
+You can download the app from the following link:
+
+[Download App](https://drive.google.com/drive/folders/12WycUL5CHHhHFfYqP-kMZhM8rYrfnGah?usp=sharing)
+
+
+---
+
 ## 🧭 Overview
 
 The project enables **real-time video capture, frame-by-frame analysis, and GPU-accelerated rendering** using modern browser APIs.  
