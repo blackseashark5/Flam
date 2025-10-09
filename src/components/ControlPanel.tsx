@@ -1,5 +1,5 @@
 import { FilterType, ProcessingOptions } from '../types';
-import { Settings, Video, VideoOff } from 'lucide-react';
+import { Settings, Video, VideoOff } from 'lucide-react'; 
 
 interface ControlPanelProps {
   isActive: boolean;
