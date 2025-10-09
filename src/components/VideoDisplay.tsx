@@ -5,7 +5,7 @@ interface VideoDisplayProps {
   canvasRef: React.RefObject<HTMLCanvasElement>;
   isActive: boolean;
 }
-
+ 
 export const VideoDisplay = ({ videoRef, canvasRef, isActive }: VideoDisplayProps) => {
   const containerRef = useRef<HTMLDivElement>(null);
 
